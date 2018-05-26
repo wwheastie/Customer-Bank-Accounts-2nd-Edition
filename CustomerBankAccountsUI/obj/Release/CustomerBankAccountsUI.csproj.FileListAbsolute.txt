@@ -24,3 +24,16 @@ C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edi
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.ntForm.resources
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.Properties.Resources.resources
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.csproj.GenerateResource.Cache
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\bin\Release\CustomerBankAccountsUI.exe.config
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.exe
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.pdb
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\bin\Release\CustomerBankAccountsUI.exe
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\bin\Release\CustomerBankAccountsUI.pdb
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\bin\Release\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\bin\Release\CustomerBankAccountsLibrary.pdb
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.csprojResolveAssemblyReference.cache
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.baForm.resources
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.ncForm.resources
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.ntForm.resources
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.Properties.Resources.resources
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsUI\obj\Release\CustomerBankAccountsUI.csproj.GenerateResource.Cache

@@ -8,3 +8,8 @@ C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edi
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.csprojResolveAssemblyReference.cache
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.dll
 C:\Users\wwhea\Documents\Completed Projects\Customer Bank Accounts - C# (1st Edition - No Database)\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.pdb
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsLibrary\bin\Release\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsLibrary\bin\Release\CustomerBankAccountsLibrary.pdb
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Git Projects\Customer Bank Accounts\Customer-Bank-Accounts-2nd-Edition\CustomerBankAccountsLibrary\obj\Release\CustomerBankAccountsLibrary.pdb
