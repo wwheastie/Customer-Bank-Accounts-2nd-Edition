@@ -1,0 +1,5 @@
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsLibrary\bin\Debug\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsLibrary\bin\Debug\CustomerBankAccountsLibrary.pdb
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Debug\CustomerBankAccountsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Debug\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsLibrary\obj\Debug\CustomerBankAccountsLibrary.pdb

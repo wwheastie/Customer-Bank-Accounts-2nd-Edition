@@ -1,0 +1,13 @@
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\bin\Debug\CustomerBankAccountsUI.exe.config
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\bin\Debug\CustomerBankAccountsUI.exe
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\bin\Debug\CustomerBankAccountsUI.pdb
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.csprojResolveAssemblyReference.cache
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.baForm.resources
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.ncForm.resources
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.Properties.Resources.resources
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.csproj.GenerateResource.Cache
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.exe
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.pdb
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\obj\Debug\CustomerBankAccountsUI.ntForm.resources
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\bin\Debug\CustomerBankAccountsLibrary.dll
+C:\Users\wwhea\Desktop\Customer Bank Accounts (Final Edition with No Database\Customer Bank Accounts\CustomerBankAccountsUI\bin\Debug\CustomerBankAccountsLibrary.pdb
