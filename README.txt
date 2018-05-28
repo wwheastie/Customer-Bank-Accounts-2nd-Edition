@@ -5,4 +5,4 @@ How to Run Application:
 To run this application go to CustomerBankAccountsUI\bin\Release and run.exe
 
 How to View Source Code:
-In the root folder open the .sln file “Customer Bank Accounts” in Visual Studio
+In the project root folder open the .sln file “Customer Bank Accounts” in Visual Studio
